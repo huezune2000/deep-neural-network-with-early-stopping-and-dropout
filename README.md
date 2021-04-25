@@ -1,4 +1,4 @@
-# deep-neural-network-with-early-stopping-and-dropout
+# Deep Neural Network w/ Early Stopping and Dropout
 
 
 # Description:
